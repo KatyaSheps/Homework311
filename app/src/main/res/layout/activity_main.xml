@@ -101,14 +101,14 @@
         android:layout_height="wrap_content">
 
         <Button
-            android:layout_width="128dp"
+            android:layout_width="120dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:onClick="onNumberClick"
             android:text="0" />
         <Button
             android:layout_weight="1"
-            android:layout_width="0dp"
+            android:layout_width="1dp"
             android:layout_height="wrap_content"
             android:text=","
             android:onClick="onNumberClick"/>
